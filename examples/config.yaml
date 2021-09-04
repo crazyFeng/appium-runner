@@ -1,0 +1,11 @@
+excel_file: D:\work\course\test\platform\app_framework\data\case.xls
+username: "张三"
+projectname: "读书屋项目"
+title: "自动化测试报告"
+appium_url: "http://192.168.1.179:4723/wd/hub"
+appium_run_info:
+  deviceName: "emulator-5554"
+  platformName: "Android"
+  platformVersion: "5.1.1"
+  appPackage: "com.tencent.mobileqq"
+  appActivity: ".activity.SplashActivity"
